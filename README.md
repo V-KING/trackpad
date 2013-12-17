@@ -1,4 +1,4 @@
-Trackpad
+Trackpad(用手机做触摸板控制PC)
 ========
 
 Use your Iphone or Android as a trackpad for your Mac/PC. Make your smartphone smarter.
